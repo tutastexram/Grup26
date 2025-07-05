@@ -38,3 +38,20 @@ KarakterHareket.cs script'i Unity projesine entegre edilecek ve karakterin küt�
 
 Gerekli fiziksel ayarlamalar (Rigidbody, Collider) yapılacak ve zemin algılama kontrol edilecek.
 
+5.Unity Entegrasyonu - Kamera Takip Mekaniği:
+
+KameraTakip.cs script'i Main Camera'ya eklenecek ve karakteri kütüphanenin iç mekanlarında (kapalı alanlarda bile) düzgün takip etmesi sağlanacak.
+
+Kamera ofset (konum) ve yumuşama (hareket hızı) ayarları, dar ve yüksek kütüphane ortamına uygun şekilde optimize edilecek.
+
+Karakterin dönüşüne göre kamera takibi ayarlanacak.
+
+6.Unity Entegrasyonu - Envanter Yönetimi ve Eşya Etkileşimi:
+
+InventoryManager.cs script'i Player GameObject'ine eklenecek ve temel fonksiyonları (eşya ekleme/çıkarma, varsayılan ikon kullanımı) test edilecek.
+
+InventorySlotUI.cs script'leri envanter slotu UI elemanlarına eklenecek ve toplanan notlar, eski anahtarlar veya rüzgar büyüsü parçaları gibi eşyaların ikonlarının düzgün görünmesi sağlanacak.
+
+EşyaYönetimi.cs script'i Player GameObject'ine eklenecek, HoldPoint ve Inventory Manager referansları atanacak.
+
+
