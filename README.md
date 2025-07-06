@@ -99,7 +99,7 @@ Sprint Board Ekran Görüntüleri
 Sprint boyunca ve özellikle sprint sonunda, Unity projesinin mevcut durumunu gösteren ana ekran görüntüleri buraya eklenecektir. Bu görseller, geliştirilen özelliklerin çalıştığını ve "Rüzgarın Fısıltısı Kütüphanesi" temasının nasıl görselleştiğini gösterecektir.
 
 * Görsel 1: Envanter UI'sının ekranda göründüğü bir an (Envanter Yönetimi). (Şu anda sadece kodlaması yapılmıştır. UI tasarımı ve yerleşimi tamamlandığında ekran görüntüsü eklenecektir.)
-* Görsel 2: Karakterin bir eşyayı (örn: basit bir küp) yerden aldığı veya elinde tuttuğu bir an (Eşya Etkileşimi). (Şu anda sadece kodlaması yapılmıştır. Sahneye eşya modeli yerleştirildiğinde ve etkileşim çalıştırıldığında ekran görüntüsü eklenecektir.)
+* Görsel 2: Karakterin bir eşyayı yerden aldığı veya elinde tuttuğu bir an (Eşya Etkileşimi). (Şu anda sadece kodlaması yapılmıştır. Sahneye eşya modeli yerleştirildiğinde ve etkileşim çalıştırıldığında ekran görüntüsü eklenecektir.)
 * Görsel 3: [Rüzgarın Fısıltısı Kütüphanesi.pdf](https://github.com/user-attachments/files/21087259/Ruzgarin.Fisiltisi.Kutuphanesi.pdf)
 
 
