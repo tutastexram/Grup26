@@ -70,6 +70,7 @@ Görevlerin puanlaması basit bir Fibonacci dizisi (1, 2, 3, 5, 8...) kullanıla
 * 3 Puan (Orta): Tahmini 1 gün.
 * 5 Puan (Orta-Yüksek): Tahmini 2-3 gün.
 * 8 Puan (Yüksek): Tahmini 3-5 gün.
+
 Sprint 1 Görev Puanlaması:
 * Oyun Teması & Hikaye Netleştirme (Rüzgarın Fısıltısı): 3 Puan
 * Oyun Logosu Taslağı Oluşturma: 2 Puan
