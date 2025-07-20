@@ -228,41 +228,17 @@ Görev 9: Oyun Açılış Müziği Seçimi/Belirlemesi
 * Puan: 2
 * Kategori: Ses / Müzik
 
-Görev 10: Hikaye Ortası Taslağı Oluşturma
-
-* Görev Adı: Kütüphane Temasındaki Gelişim
-* Açıklama: Kütüphanenin orta kısımlarında geçecek ana hikaye detaylarını (yeni sırlar, ilk büyük bulmaca ipuçları, karakterin kütüphane hakkında ne keşfettiği) taslak halinde yaz. Bu bölümde karakterin yeni bir yetenek kazanması veya önemli bir öğeyi bulması gibi olayları belirle.
-* Puan: 5
-* Kategori: Hikaye / Senaryo
-
-Görev 11: Kütüphane Temel Işıklandırması
-
-* Görev Adı: Oda ve Panel Işıklandırması
-* Açıklama: Kütüphane odalarına ve ana ekran paneline (açılış, ayarlar vb.) temaya uygun temel bir ışıklandırma (örn: genel ambiyans ışığı, pencere/boşluklardan gelen ışık süzmeleri) uygula. Ortamın mistik ve eski havasını yansıtmasını sağla.
-* Puan: 5
-* Kategori: Ortam / Görsel
+Görev 10: Hikaye Ortası Taslağı  
 
 
-Daily Scrum (Günlük Toplantı)
 
-Daily Scrum toplantıları, herkesin müsait olduğu saat 21:00’ da Toplantı Yeri/Platform - Google Meet yapılacaktır.
-Üyeler birbiriyle iletişimi için WhatsApp kullanılacaktır.
-
-Sprint Board Ekran Görüntüleri
-
-* Başlangıç Durumu: 
-
-* Güncel Durum: 
-
-* Bitiş Durumu: 
-
-
-Tamamdır! "Rüzgarın Fısıltısı Kütüphanesi" projeniz için Sprint 2'yi, Sprint 1 formatına tamamen uyarak, tüm Trello görevleri, detaylı açıklamaları ve puanlamalarıyla birlikte hazırlıyorum. Bu sprint, oyunun görsel atmosferini ve temel kullanıcı arayüzünü oluşturmaya odaklanacak.
 
 
 Sprint 2 Notları: Atmosfer ve Görsel Kimlik
 
-Sprint Adı: Sprint 2: Atmosfer ve Görsel Temeller Sprint Hedefi: Oyunun temel atmosferini oluşturacak iki kütüphane odasının asset yerleşimini tamamlamak (ilerlemeyle birlikte), açılış müziğini entegre etmek, ana UI ekranlarının (açılış ve nasıl oynanır) tasarımlarını oluşturmak, oyun içi metinlerin görünümünü belirlemek, ilk item görsellerini ve envanter/görev slot tasarımlarını oluşturmak. 
+Sprint Adı: Sprint 2: Atmosfer ve Görsel Temeller
+
+Sprint Hedefi: Oyunun temel atmosferini oluşturacak iki kütüphane odasının asset yerleşimini tamamlamak (ilerlemeyle birlikte), açılış müziğini entegre etmek, ana UI ekranlarının (açılış ve nasıl oynanır) tasarımlarını oluşturmak, oyun içi metinlerin görünümünü belirlemek, ilk item görsellerini ve envanter/görev slot tasarımlarını oluşturmak. 
 
 Sprint İçinde Tamamlanması Tahmin Edilen Puan
 
