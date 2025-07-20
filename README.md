@@ -428,7 +428,7 @@ Sprint 2 Retrospective (Değerlendirme)
 * "Nasıl Oynanır" Metin Uzunluğu: "Nasıl Oynanır" ekranı için yazılacak metinlerin uzunluğu ve düzeni konusunda daha iyi bir planlama yapılabilirdi, bu da UI yerleşimini etkileyecek potansiyel bir sorun olabilir.
 * Trello Görev Detayı: Bazı görev açıklamalarının (özellikle ses ve ışıklandırma gibi sanatsal ayarlamalar içerenlerin) daha objektif ve ölçülebilir kriterlerle tanımlanması, tamamlanma durumunu daha net belirleyebilir.
 
-3.Bir Sonraki Sprint İçin Ne Öğrendik/Neyi Değiştireceğiz (What Will We Commit to Improve)?
+3.Bir Sonraki Sprint İçin Ne Öğrendik/Neyi Değiştireceğiz?
     * Öğrenim: Görsel üretimde yapay zeka araçlarının hızı ve temaya uyumu çok değerli ancak Unity'ye entegrasyon sonrası optimizasyon ve ince ayarların önemi büyük.
     * Değişiklik 1 (Asset Optimizasyonu): Bir sonraki sprint'te yeni assetleri import etmeden önce, Unity performansını göz önünde bulundurarak daha detaylı bir optimizasyon kontrol listesi oluşturup uygulayacağız.
     * Değişiklik 2 (Dinamik Ses Tasarımı): Ses entegrasyon görevlerine, seslerin mekansal konumlandırılması ve dinamik değişimleri (örn: rüzgarın şiddetine göre sesin artması/azalması) gibi daha spesifik alt görevler ekleyeceğiz.
