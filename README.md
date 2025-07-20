@@ -126,113 +126,6 @@ Sprint Retrospective
 * UI ve temel 3D modeller için önceden planlama yaparak kodlama ile eş zamanlı ilerlemesini sağlanacaktır.
 * Trello kartlarına daha detaylı kontrol listeleri eklenecektir.
 
-Sprint 2 Notları: Atmosfer ve Görsel Kimlik
-
-Sprint Adı: Sprint 2: Atmosfer ve Görsel Temeller Sprint Hedefi: Oyunun temel atmosferini oluşturacak iki kütüphane odasının asset yerleşimini tamamlamak, açılış müziğini entegre etmek, ana UI ekranlarının (açılış ve nasıl oynanır) tasarımlarını oluşturmak, oyun içi metinlerin görünümünü belirlemek, ilk item görsellerini ve envanter/görev slot tasarımlarını oluşturmak.
-
-Sprint İçinde Tamamlanması Tahmin Edilen Puan
-
-* Toplam Tahmini Puan: 42 Puan
-
-Puan Tamamlama Mantığı
-
-Görevlerin puanlaması basit bir Fibonacci dizisi (1, 2, 3, 5, 8, 13...) kullanılarak yapılır. Bu sayılar, görevin karmaşıklığı, belirsizliği ve tahmini süresi dikkate alınarak belirlenir. Yüksek puan, daha karmaşık veya uzun süren bir görev anlamına gelir.
-* 1 Puan (Çok Basit): Tahmini 1-2 saat.
-* 2 Puan (Basit): Tahmini yarım gün.
-* 3 Puan (Orta): Tahmini 1 gün.
-* 5 Puan (Orta-Yüksek): Tahmini 2-3 gün.
-* 8 Puan (Yüksek): Tahmini 3-5 gün.
-* 13 Puan (Çok Yüksek): Tahmini 5+ gün.
-
-Sprint 2 Görev Puanlaması:
-* Asset/Ortam Görevleri:
-    * İlk Kütüphane Odaları (Bloklama): 8 Puan
-    * Temel Kütüphane Eşyaları (Asset Entegrasyonu): 5 Puan
-    * Kütüphane Temel Işıklandırması: 5 Puan
-
-* UI Görevleri:
-    * Envanter UI Estetik Ayarlama: 5 Puan
-    * Etkileşim Yazısı Görsel Tasarımı: 3 Puan
-    * Açılış Ekranı UI Tasarımı: 8 Puan
-    * Nasıl Oynanır Ekranı UI Tasarımı: 5 Puan
-    * Oyun İçi Metin Font ve Stil Belirleme: 3 Puan
-
-* Ses/Müzik Görevleri:
-    * Kütüphane Ortam Sesleri: 3 Puan
-    * Oyun Açılış Müziği Seçimi/Belirlemesi: 2 Puan
-
-* Hikaye Görevleri:
-    * Hikaye Ortası Taslağı Oluşturma: 5 Puan
-
-Liste: Sprint 2 Backlog
-Görev 1: İlk Kütüphane Odaları (Bloklama)
-
-* Görev Adı: Kütüphane Odaları Temel Kurulumu
-* Açıklama: Oyun için ilk 3-4 kütüphane odasını (duvar, zemin, tavan) basit gri kutularla (bloklama) Unity'de oluştur. Odalar arası geçişleri (kapılar veya kemerler) yerleştir. Ölçeklerin doğru olduğundan emin ol.
-* Puan: 8
-* Kategori: Asset / Ortam
-
-Görev 2: Temel Kütüphane Eşyaları (Asset Entegrasyonu)
-
-* Görev Adı: Kütüphane İçi Props Yerleşimi
-* Açıklama: Kütüphane için temel 3D modelleri (örn: raflar, birkaç kitap yığını, masa, sandalye, eski sandık, şamdanlar vb.) Unity'ye import et. Bu modellerin basit doku veya renklerini ayarla ve ilgili odalara yerleştir.
-* Puan: 5
-* Kategori: Asset / Ortam
-
-Görev 3: Envanter UI Estetik Ayarlama
-
-* Görev Adı: Envanter Panelinin Görsel İyileştirmeleri
-* Açıklama: Envanter arayüzüne (panel, slotlar) "Rüzgarın Fısıltısı Kütüphanesi" temasına uygun basit bir arka plan görseli ve slot çerçeveleri ekle (daha önce oluşturulan görselleri kullan). Geçici ikonları daha tematik hale getirmek için placeholder görseller kullan.
-* Puan: 5
-* Kategori: UI
-
-Görev 4: Etkileşim Yazısı Görsel Tasarımı
-
-* Görev Adı: Etkileşim Mesajı UI Hazırlığı
-* Açıklama: Karakter bir eşyaya/objeye baktığında ekranda belirecek "E Tuşuna Bas" veya benzeri etkileşim yazısının görsel tasarımını (font, renk, boyut, konum, gölge, arka plan paneli varsa) yap. Bu UI'nın temaya uygun görünmesini sağla (daha önce oluşturulan "E" tuşu görseliyle uyumlu).
-* Puan: 3
-* Kategori: UI
-
-Görev 5: Açılış Ekranı UI Tasarımı
-
-* Görev Adı: Ana Menü Görsel Tasarımı ve Yerleşim
-* Açıklama: Oyunun açılış ekranının görsel tasarımını (arka plan görseli, butonların yerleşimi) yap. "Başla", "Ayarlar", "Oyundan Çık" butonlarının görsel stilini (daha önce belirlenen font ve buton görselleri) uygula.
-* Puan: 8
-* Kategori: UI
-
-Görev 6: Nasıl Oynanır Ekranı UI Tasarımı
-
-* Görev Adı: Oyun İçi Rehber Ekranı Görsel Tasarımı
-* Açıklama: "Nasıl Oynanır" ekranının genel düzenini ve görsel tasarımını yap. Bu ekranda kullanılacak metin alanlarını, varsa görseller için yer tutucuları ve tuş ipuçlarını (örn: "SPACE" tuşu görseli) yerleştir. Ekranın temiz ve bilgilendirici olmasını sağla.
-* Puan: 5
-* Kategori: UI
-
-Görev 7: Oyun İçi Metin Font ve Stil Belirleme
-
-* Görev Adı: Diyalog/İpuçları Metin Stili
-* Açıklama: Oyun içindeki diyaloglar, görev ipuçları ve genel bilgilendirme metinleri için font (daha önce önerilen fontlar arasından seçim), boyut, renk ve hizalama standartlarını belirle. Metinlerin okunaklı ve temaya uygun olduğundan emin ol.
-* Puan: 3
-* Kategori: UI
-
-Görev 8: Kütüphane Ortam Sesleri
-
-* Görev Adı: Ortam Akustik Tasarımı
-* Açıklama: Kütüphanenin ambiyansını veren sesleri (uzak fısıltılar, eski bina gıcırtıları, yankılar, hafif rüzgar efektleri) bul veya oluştur. Bu sesleri Unity'de ilgili odalara veya genel sahneye entegre et ve ses seviyelerini ayarla.
-* Puan: 3
-* Kategori: Ses / Müzik
-
-Görev 9: Oyun Açılış Müziği Seçimi/Belirlemesi
-
-* Görev Adı: Ana Menü Müzik Seçimi
-* Açıklama: Oyunun açılış ekranında çalacak, "chill" ve "cozy" atmosferi destekleyen, mistik kütüphane temasına uygun bir müzik parçasını kesinleştir. Bu müziği Unity projesine import et ve açılış sahnesine yerleştir.
-* Puan: 2
-* Kategori: Ses / Müzik
-
-Görev 10: Hikaye Ortası Taslağı  
-
-
-
-
 
 Sprint 2 Notları: Atmosfer ve Görsel Kimlik
 
@@ -383,7 +276,6 @@ Sprint boyunca ve özellikle sprint sonunda, Unity projesinin mevcut durumunu g�
 
 
 * Görsel 5: <img width="2048" height="1592" alt="5" src="https://github.com/user-attachments/assets/6475f90f-3a19-4803-b821-561771d28c79" />
-
 
 
 Sprint Review (Gözden Geçirme)
