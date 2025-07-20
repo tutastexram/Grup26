@@ -406,7 +406,8 @@ Sprint boyunca ve özellikle sprint sonunda, Unity projesinin mevcut durumunu g�
 <img width="2048" height="1592" alt="6" src="https://github.com/user-attachments/assets/190a599c-50b0-49d8-98b6-e1d07303e438" />
 
 
-* Görsel 5: <img width="2048" height="1592" alt="7" src="https://github.com/user-attachments/assets/2fc8d0e8-9a20-4ca7-a913-f2313238d44e" />
+* Görsel 5: <img width="2048" height="1592" alt="5" src="https://github.com/user-attachments/assets/6475f90f-3a19-4803-b821-561771d28c79" />
+
 
 
 Sprint Review (Gözden Geçirme)
