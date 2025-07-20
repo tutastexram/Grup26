@@ -250,6 +250,12 @@ Daily Scrum (Günlük Toplantı)
 Daily Scrum toplantıları, herkesin müsait olduğu saat 21:00’ da Toplantı Yeri/Platform - Google Meet yapılacaktır.
 Üyeler birbiriyle iletişimi için WhatsApp kullanılacaktır.
 
+![WhatsApp Image 2025-07-21 at 02 29 17](https://github.com/user-attachments/assets/8804cf74-2713-4f6b-a49d-cb0e07654662)
+![WhatsApp Image 2025-07-21 at 02 29 16](https://github.com/user-attachments/assets/7caf29e8-7702-4aa5-8e4c-b0b9a4570059)
+![WhatsApp Image 2025-07-21 at 02 29 16 (1)](https://github.com/user-attachments/assets/3e60552a-2697-4b82-8836-afa44f67d3b5)
+
+
+
 
 Sprint Board Ekran Görüntüleri
 
