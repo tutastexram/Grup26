@@ -1,4 +1,3 @@
-<img width="2048" height="1592" alt="3" src="https://github.com/user-attachments/assets/90d2c37e-b6aa-4927-a792-8019454147cc" />Oyun Logosu Tasarımı - Rüzgarın Fısıltısı:
 
 Oyunun ismini (Rüzgarın Fısıltısı Kütüphanesi) ve temasını yansıtan, mistik, antik ve gizemli bir logo taslağı oluşturulacak.
 
@@ -263,7 +262,7 @@ Tamamdır! "Rüzgarın Fısıltısı Kütüphanesi" projeniz için Sprint 2'yi, 
 
 Sprint 2 Notları: Atmosfer ve Görsel Kimlik
 
-Sprint Adı: Sprint 2: Atmosfer ve Görsel Temeller Sprint Hedefi: Oyunun temel atmosferini oluşturacak iki kütüphane odasının asset yerleşimini tamamlamak, açılış müziğini entegre etmek, ana UI ekranlarının (açılış ve nasıl oynanır) tasarımlarını oluşturmak, oyun içi metinlerin görünümünü belirlemek, ilk item görsellerini ve envanter/görev slot tasarımlarını oluşturmak. Sprint Başlangıç Tarihi: [Belirlenecek Tarih - örn: 24 Temmuz 2025] Sprint Bitiş Tarihi: [Belirlenecek Tarih - örn: 6 Ağustos 2025]
+Sprint Adı: Sprint 2: Atmosfer ve Görsel Temeller Sprint Hedefi: Oyunun temel atmosferini oluşturacak iki kütüphane odasının asset yerleşimini tamamlamak (ilerlemeyle birlikte), açılış müziğini entegre etmek, ana UI ekranlarının (açılış ve nasıl oynanır) tasarımlarını oluşturmak, oyun içi metinlerin görünümünü belirlemek, ilk item görsellerini ve envanter/görev slot tasarımlarını oluşturmak. 
 
 Sprint İçinde Tamamlanması Tahmin Edilen Puan
 
@@ -295,7 +294,9 @@ Sprint 2 Görev Puanlaması:
 * Hikaye Görevleri:
     * Hikaye Ortası Taslağı Oluşturma: 5 Puan
 
+
 Liste: Sprint 2 Backlog
+
 
 Görev 1: İlk Kütüphane Odaları (Bloklama)
 
@@ -380,61 +381,67 @@ Daily Scrum (Günlük Toplantı)
 Daily Scrum toplantıları, herkesin müsait olduğu saat 21:00’ da Toplantı Yeri/Platform - Google Meet yapılacaktır.
 Üyeler birbiriyle iletişimi için WhatsApp kullanılacaktır.
 
+
 Sprint Board Ekran Görüntüleri
 
-* Başlangıç Durumu: 
-* Güncel Durum: 
-* Bitiş Durumu: 
+* Başlangıç Durumu: <img width="1422" height="592" alt="Ekran Resmi 2025-07-20 17 13 06" src="https://github.com/user-attachments/assets/8cfd01f2-71e8-4325-8728-16ce50520a94" />
+
+* Güncel Durum: <img width="1422" height="592" alt="Ekran Resmi 2025-07-20 17 13 28" src="https://github.com/user-attachments/assets/e0cea71f-4a25-453c-9a91-7d2f00fbaf43" />
+
+* Bitiş Durumu: <img width="1422" height="592" alt="Ekran Resmi 2025-07-20 17 15 57" src="https://github.com/user-attachments/assets/9df9cedf-0e5b-46f7-9e66-55d1a606ff31" />
+
 
 
 Ürün Durumu: Ekran Görüntüleri
+
 Sprint boyunca ve özellikle sprint sonunda, Unity projesinin mevcut durumunu gösteren ana ekran görüntüleri buraya eklenecektir. Bu görseller, geliştirilen özelliklerin çalıştığını gösterecektir.
+* Görsel 1: Düzenlenmiş iki kütüphane odasından biri (bloklama ve temel eşyalarla). (Bu kısım hala yapım aşamasında olduğu için, sprint sonunda buraya güncel bir ekran görüntüsü veya ilerleme notu içerebilir.)
+* Görsel 2: <img width="2048" height="1592" alt="1" src="https://github.com/user-attachments/assets/2b356527-18ce-4a14-8ef8-3971ae6c2266" />
+<img width="2048" height="1592" alt="2" src="https://github.com/user-attachments/assets/da1e9f12-7a27-4f02-8f0b-aeb6a57f228a" />
+<img width="2048" height="1592" alt="3" src="https://github.com/user-attachments/assets/40736cd8-ce2a-4ce9-9767-256ff9696484" />
 
-* Görsel 1: Düzenlenmiş iki kütüphane odasından biri (bloklama ve temel eşyalarla).
-* Görsel 2: <img width="2048" height="1592" alt="1" src="https://github.com/user-attachments/assets/6b17f016-1aa7-4111-930e-45d963b76762" />
-<img width="2048" height="1592" alt="2" src="https://github.com/user-attachments/assets/ed482013-1c77-4248-9db0-cc3f2884d4b6" />
-<img width="2048" height="1592" alt="3" src="https://github.com/user-attachments/assets/883ae585-cdd6-4582-84c0-66872d435ee7" />
+* Görsel 3: <img width="2048" height="1592" alt="4" src="https://github.com/user-attachments/assets/661a26fe-bb1c-4171-9959-13f16cd4eb97" />
 
-* Görsel 3: <img width="2048" height="1592" alt="4" src="https://github.com/user-attachments/assets/76209fff-4a9d-4766-a08c-50099535e180" />
+* Görsel 4: <img width="2048" height="1592" alt="7" src="https://github.com/user-attachments/assets/f560fd1f-f2b3-4eb3-a089-dec61dc41a09" />
+<img width="2048" height="1592" alt="6" src="https://github.com/user-attachments/assets/190a599c-50b0-49d8-98b6-e1d07303e438" />
 
-* Görsel 4: <img width="2048" height="1592" alt="6" src="https://github.com/user-attachments/assets/fe2d527e-fbaa-4b20-9049-bed6aaef31c7" />
 
-* Görsel 5: <img width="2048" height="1592" alt="7" src="https://github.com/user-attachments/assets/1e28f5cd-1d84-4d22-9dd5-7461462c7cfb" />
-
-*Görsel 6: <img width="2048" height="1592" alt="5" src="https://github.com/user-attachments/assets/33037c37-c6b9-46be-abf9-ac5a90807ac2" />
+* Görsel 5: <img width="2048" height="1592" alt="7" src="https://github.com/user-attachments/assets/2fc8d0e8-9a20-4ca7-a913-f2313238d44e" />
 
 
 Sprint Review (Gözden Geçirme)
 
-1.Tamamlanan Ürün Artıkları (Demonstrasyon):
-* İki kütüphane odasının asset yerleşimi Unity'de canlı olarak gösterilecek.
-* Oyunun açılış müziği dinletilecek.
-* Açılış ve Nasıl Oynanır ekranlarının UI tasarımları ve etkileşimleri (buton hover, tıklama) gösterilecek.
-* Oyun içi metinlerin belirlenen font ve stilde nasıl göründüğü gösterilecek.
-* Envanter ve görev slot tasarımları, bir panel üzerinde gösterilecek.
-* Varsa ilk item görselleri sunulacak.
+1. Tamamlanan Ürün Artıkları (Demonstrasyon):
+    * Oyunun açılış müziği dinletilecek.
+    * Açılış ve Nasıl Oynanır ekranlarının UI tasarımları ve etkileşimleri (buton hover, tıklama) gösterilecek.
+    * Oyun içi metinlerin belirlenen font ve stilde nasıl göründüğü gösterilecek.
+    * Envanter ve görev slot tasarımları, bir panel üzerinde gösterilecek.
+    * Varsa ilk item görselleri sunulacak.
+
+2. Tamamlanmayan Ürün Artıkları:
+    * Kütüphane odalarının asset yerleşimi (bloklama ve temel eşyalarla) bu sprint içinde tam olarak tamamlanamadı ve devam eden bir görev olarak kaydedildi.
 
 
-Sprint 2 Retrospective (Değerlendirme)
-1.Neler İyi Gitti?
-* Görsel Tasarım Akışı: UI görsellerinin (açılış, nasıl oynanır, butonlar, slotlar) yapay zeka araçları kullanılarak hızla ve temaya uygun bir şekilde oluşturulması süreci çok verimli ilerledi. Bu sayede görsel kimliğin erken aşamada şekillenmesi sağlandı.
-* Ortam Işıklandırması: Kütüphane odaları ve UI panelleri için temel ışıklandırmanın atmosferi başarıyla yakalaması ve "chill-cozy" hissini yansıtması takdir edildi.
-* Sprint Hedefi Odaklılık: Ekip, belirlenen sprint hedeflerine (görsel atmosfer ve UI temelleri) odaklanma konusunda başarılı oldu ve yan görevlerden sapmadı.
-* Geri Bildirim Döngüsü: UI tasarımları üzerinde yapılan anlık geri bildirimler sayesinde revizyonlar hızlıca gerçekleştirilebildi ve istenen sonuçlara daha çabuk ulaşıldı.
+Sprint Retrospective (Değerlendirme)
 
-2.Neler Daha İyi Yapılabilirdi (What Could Be Improved)?
-* Asset Optimizasyonu: Bazı 3D kütüphane assetlerinin Unity'ye aktarımı sırasında boyut veya poligon sayısıyla ilgili optimizasyon ihtiyaçları ortaya çıktı. Bu, ileriki aşamalarda performansı etkileyebilir.
-* Ses Entegrasyonu Detayı: Kütüphane ortam seslerinin entegrasyonu genel olarak iyi olsa da, bazı seslerin (örn: rüzgar fısıltısı) daha dinamik veya mekansal olarak ayarlanması gerektiği fark edildi.
-* "Nasıl Oynanır" Metin Uzunluğu: "Nasıl Oynanır" ekranı için yazılacak metinlerin uzunluğu ve düzeni konusunda daha iyi bir planlama yapılabilirdi, bu da UI yerleşimini etkileyecek potansiyel bir sorun olabilir.
-* Trello Görev Detayı: Bazı görev açıklamalarının (özellikle ses ve ışıklandırma gibi sanatsal ayarlamalar içerenlerin) daha objektif ve ölçülebilir kriterlerle tanımlanması, tamamlanma durumunu daha net belirleyebilir.
-
-3.Bir Sonraki Sprint İçin Ne Öğrendik/Neyi Değiştireceğiz?
-    * Öğrenim: Görsel üretimde yapay zeka araçlarının hızı ve temaya uyumu çok değerli ancak Unity'ye entegrasyon sonrası optimizasyon ve ince ayarların önemi büyük.
-    * Değişiklik 1 (Asset Optimizasyonu): Bir sonraki sprint'te yeni assetleri import etmeden önce, Unity performansını göz önünde bulundurarak daha detaylı bir optimizasyon kontrol listesi oluşturup uygulayacağız.
+1. Neler İyi Gitti?
+    * Görsel Tasarım Akışı: UI görsellerinin (açılış, nasıl oynanır, butonlar, slotlar) yapay zeka araçları kullanılarak hızla ve temaya uygun bir şekilde oluşturulması süreci çok verimli ilerledi. Bu sayede görsel kimliğin erken aşamada şekillenmesi sağlandı.
+    * Ortam Işıklandırması: Kütüphane odaları ve UI panelleri için temel ışıklandırmanın atmosferi başarıyla yakalaması ve "chill-cozy" hissini yansıtması takdir edildi.
+    * Sprint Hedefi Odaklılık: Ekip, belirlenen sprint hedeflerine (görsel atmosfer ve UI temelleri) odaklanma konusunda başarılı oldu ve yan görevlerden sapmadı.
+    * Geri Bildirim Döngüsü: UI tasarımları üzerinde yapılan anlık geri bildirimler sayesinde revizyonlar hızlıca gerçekleştirilebildi ve istenen sonuçlara daha çabuk ulaşıldı.
+    * 
+2. Neler Daha İyi Yapılabilirdi?
+    * Asset Optimizasyonu ve Entegrasyonu: Kütüphane odaları ve temel eşyaların asset yerleşimi görevi beklenenden daha uzun sürdü ve bu alanda daha fazla zaman veya kaynak ayrılması gerektiği anlaşıldı. Bu durum, diğer görevlerin başlamasını geciktirdi veya ek yük getirdi.
+    * Ses Entegrasyonu Detayı: Kütüphane ortam seslerinin entegrasyonu genel olarak iyi olsa da, bazı seslerin (örn: rüzgar fısıltısı) daha dinamik veya mekansal olarak ayarlanması gerektiği fark edildi.
+    * "Nasıl Oynanır" Metin Uzunluğu: "Nasıl Oynanır" ekranı için yazılacak metinlerin uzunluğu ve düzeni konusunda daha iyi bir planlama yapılabilirdi, bu da UI yerleşimini etkileyecek potansiyel bir sorun olabilir.
+    * Trello Görev Detayı: Bazı görev açıklamalarının (özellikle ses ve ışıklandırma gibi sanatsal ayarlamalar içerenlerin) daha objektif ve ölçülebilir kriterlerle tanımlanması, tamamlanma durumunu daha net belirleyebilir.
+    * 
+3. Bir Sonraki Sprint İçin Ne Öğrendik/Neyi Değiştireceğiz?
+    * Öğrenim: Görsel üretimde yapay zeka araçlarının hızı ve temaya uyumu çok değerli ancak Unity'ye entegrasyon sonrası optimizasyon ve ince ayarların önemi büyük. Özellikle 3D asset entegrasyonu için daha gerçekçi zaman çizelgeleri belirlemeliyiz.
+    * Değişiklik 1 (Asset Planlama): Bir sonraki sprint'te 3D asset entegrasyonu ve optimizasyonu için daha fazla zaman ayıracağız ve bu tür görevlere daha yüksek puan atayabiliriz. Ayrıca, önceden kullanılacak assetlerin optimizasyon durumunu kontrol edeceğiz.
     * Değişiklik 2 (Dinamik Ses Tasarımı): Ses entegrasyon görevlerine, seslerin mekansal konumlandırılması ve dinamik değişimleri (örn: rüzgarın şiddetine göre sesin artması/azalması) gibi daha spesifik alt görevler ekleyeceğiz.
     * Değişiklik 3 (UI Metin Taslağı): Gelecek UI ekranları için, görsel tasarıma başlamadan önce metin içeriklerinin ilk taslağını oluşturarak, UI yerleşimini buna göre planlayacağız.
     * Değişiklik 4 (Ölçülebilir Görevler): Sanatsal veya teknik ayar görevlerini tanımlarken, "X kadar odanın ışıklandırması tamamlanacak ve Y seviyesinde bir ambiyans hissi verecek" veya "Ses seviyeleri -10dB ile -5dB arasında ayarlanacak" gibi daha spesifik ve ölçülebilir bitiş kriterleri eklemeye çalışacağız.
-
 
 
 
