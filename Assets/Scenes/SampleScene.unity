@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.18028326, g: 0.22571333, b: 0.30692202, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -318,7 +318,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1647212306}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &963194229
 MonoBehaviour:
@@ -336,56 +336,6 @@ MonoBehaviour:
   ofset: {x: 0, y: 3, z: -5}
   yumusamaHizi: 0.125
   "d\xF6nmeyiTakipEt": 1
---- !u!1 &1312105005
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1312105006}
-  - component: {fileID: 1312105007}
-  m_Layer: 3
-  m_Name: GroundCheck
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1312105006
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1312105005}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -1, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1647212306}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1312105007
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1312105005}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 094ab8116ad801144bc103cffd301ada, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  hareketHizi: 5
-  ziplamaKuvveti: 8
-  yerKontrolcu: {fileID: 0}
-  zeminKatmani:
-    serializedVersion: 2
-    m_Bits: 0
 --- !u!1 &1458899911
 GameObject:
   m_ObjectHideFlags: 0
@@ -415,7 +365,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1647212306}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1647212299
 GameObject:
@@ -467,10 +417,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hareketHizi: 5
   ziplamaKuvveti: 8
-  yerKontrolcu: {fileID: 1312105006}
+  yerKontrolcu: {fileID: 0}
   zeminKatmani:
     serializedVersion: 2
     m_Bits: 8
+  yerYaricap: 0.2
 --- !u!54 &1647212302
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -559,11 +510,10 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1647212299}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.5, y: 5.355, z: -9.426}
+  m_LocalPosition: {x: -2.5, y: 5.355, z: -3.82}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1312105006}
   - {fileID: 1458899912}
   - {fileID: 963194228}
   m_Father: {fileID: 0}

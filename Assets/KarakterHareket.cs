@@ -4,49 +4,34 @@ using UnityEngine;
 
 public class KarakterHareket : MonoBehaviour
 {
-    public float hareketHizi = 5f; 
-    public float ziplamaKuvveti = 8f; 
+    public float hareketHizi = 5f;
+    public float ziplamaKuvveti = 8f;
+
+    [Header("Zıplama Ayarları")]
     public Transform yerKontrolcu;
-    public LayerMask zeminKatmani; 
+    public LayerMask zeminKatmani;
+    public float yerYaricap = 0.2f;
+
     private Rigidbody rb;
     private bool yerdeMi;
-    private float yerYaricap = 0.2f;
+
     void Start()
     {
+        // Rigidbody bileşeni alınır
         rb = GetComponent<Rigidbody>();
         if (rb == null)
         {
             Debug.LogError("Karakterde Rigidbody bileşeni bulunamadı! Lütfen ekleyin.");
         }
+
+        // Yer kontrolcüsü atanmadıysa sahneden 'GroundCheck' objesi aranır
         if (yerKontrolcu == null)
         {
             GameObject found = GameObject.Find("GroundCheck");
             if (found != null)
+            {
                 yerKontrolcu = found.transform;
-            else
-                Debug.LogError("yerKontrolcu atanmadı ve sahnede 'GroundCheck' adlı bir obje bulunamadı!");
+            }
         }
-    }
-
-    void Update()
-    {
-        //zıplama kodu
-        yerdeMi = Physics.CheckSphere(yerKontrolcu.position, yerYaricap, zeminKatmani);
-
-    
-        if (Input.GetButtonDown("Jump") && yerdeMi)
-        {
-            rb.AddForce(Vector3.up * ziplamaKuvveti, ForceMode.Impulse);
-        }
-    }
-
-    void FixedUpdate()
-    {
-        //yürüyüş kodu
-        float yatayHareket = Input.GetAxis("Horizontal");
-        float dikeyHareket = Input.GetAxis("Vertical"); 
-
-        Vector3 hareket = transform.right * yatayHareket + transform.forward * dikeyHareket;
-        rb.MovePosition(rb.position + hareket * hareketHizi * Time.fixedDeltaTime);
     }
 }
