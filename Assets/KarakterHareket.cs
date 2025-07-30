@@ -18,14 +18,22 @@ public class KarakterHareket : MonoBehaviour
         {
             Debug.LogError("Karakterde Rigidbody bileşeni bulunamadı! Lütfen ekleyin.");
         }
+        if (yerKontrolcu == null)
+        {
+            GameObject found = GameObject.Find("GroundCheck");
+            if (found != null)
+                yerKontrolcu = found.transform;
+            else
+                Debug.LogError("yerKontrolcu atanmadı ve sahnede 'GroundCheck' adlı bir obje bulunamadı!");
+        }
     }
 
     void Update()
     {
-        
+        //zıplama kodu
         yerdeMi = Physics.CheckSphere(yerKontrolcu.position, yerYaricap, zeminKatmani);
 
-       
+    
         if (Input.GetButtonDown("Jump") && yerdeMi)
         {
             rb.AddForce(Vector3.up * ziplamaKuvveti, ForceMode.Impulse);
@@ -34,7 +42,7 @@ public class KarakterHareket : MonoBehaviour
 
     void FixedUpdate()
     {
-        
+        //yürüyüş kodu
         float yatayHareket = Input.GetAxis("Horizontal");
         float dikeyHareket = Input.GetAxis("Vertical"); 
 
